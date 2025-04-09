@@ -1,3 +1,0 @@
-[submodule "examples/lua"]
-	path = examples/lua
-	url = git@github.com:zhongfq/lua.git
